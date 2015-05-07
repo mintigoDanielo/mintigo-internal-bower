@@ -1,6 +1,6 @@
 {
   "name": "mintigo-internal-bower",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "none",
   "keywords": ["util", "functional", "server", "client", "browser"],
   "ignore" : ["docs", "test", "*.yml", "CNAME", "index.html", "favicon.ico", "CONTRIBUTING.md", ".*", "component.json", "package.json", "karma.*"]
