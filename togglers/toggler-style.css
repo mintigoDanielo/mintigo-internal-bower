@@ -67,6 +67,7 @@
     border-radius: 22px;
     margin-left: -21px;
     margin-top: -3px;
+    text-transform: uppercase;
 }
 .toggle.off .toggle-handle{
     margin-left: 21px;
